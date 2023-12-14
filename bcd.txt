@@ -1,0 +1,6 @@
+10,administrator,200,1700
+20,marketing,201,1800
+30,purchasing,114,1700
+40,human,resouses,103,2400
+50,shipping,121,1500
+
